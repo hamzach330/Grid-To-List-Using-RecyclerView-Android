@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">app</string>
+    <array name="company_list">
+        <item>facebook</item>
+        <item>badoo</item>
+        <item>behance</item>
+        <item>cdeviantart1</item>
+        <item>dribbble</item>
+        <item>flickr</item>
+        <item>googleplus</item>
+        <item>instagram</item>
+        <item>lastfm</item>
+        <item>pinterest</item>
+        <item>soundcloud</item>
+        <item>swarm</item>
+
+    </array>
+</resources>
